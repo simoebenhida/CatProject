@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace Foo\Bar\Example;
+namespace Smt\Cat;
 
 use Illuminate\Contracts\Container\Container;
 use Illuminate\Foundation\Application as LaravelApplication;

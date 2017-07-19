@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-use Foo\Bar\Example\Cats;
+namespace Smt\Cat\Cats;
 use PHPUnit\Framework\TestCase;
 
 class CatsTest extends TestCase

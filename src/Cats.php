@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace Foo\Bar\Example;
+namespace Smt\Cat;
 
 class Cats
 {
