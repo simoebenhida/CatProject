@@ -3,7 +3,7 @@
     "description": "An example laravel package",
     "authors": [
         {
-            "name": "Your Namee",
+            "name": "Your Name",
             "email": "you@example.com"
         }
     ],
@@ -20,5 +20,10 @@
             "Foo\\Bar\\Example\\": "src/"
         }
     },
-    "minimum-stability": "dev"
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    },
+    "minimum-stability": "stable"
 }
